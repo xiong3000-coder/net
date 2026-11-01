@@ -1,0 +1,41 @@
+# Shadowrocket / RULE-SET: Mainland China missed-direct domains
+# Source: four user-provided Shadowrocket logs, 2026-10-29..2026-11-01
+# Domain types only. Policy is supplied by RULE-SET,...,DIRECT.
+# Keep existing REJECT and explicit needed PROXY exceptions before this RULE-SET.
+# Check existing imedao.com -> PROXY rule: put this rule set BEFORE it if DIRECT is intended.
+DOMAIN-SUFFIX,amap-cdn.com
+DOMAIN-SUFFIX,caoliao.net
+DOMAIN-SUFFIX,cfzq.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,clewm.net
+DOMAIN-SUFFIX,cli.im
+DOMAIN-SUFFIX,eastmoneysec.com
+DOMAIN-SUFFIX,eebbk.net
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,gree.com
+DOMAIN-SUFFIX,gtht.com
+DOMAIN-SUFFIX,gtja.com
+DOMAIN-SUFFIX,gtjadev.com
+DOMAIN-SUFFIX,haitong.com
+DOMAIN-SUFFIX,hnchasing.com
+DOMAIN-SUFFIX,htsec.com
+DOMAIN-SUFFIX,imedao.com
+DOMAIN-SUFFIX,immomo.com
+DOMAIN-SUFFIX,jpush.io
+DOMAIN-SUFFIX,lingguang.com
+DOMAIN-SUFFIX,lingguangcontent.com
+DOMAIN-SUFFIX,lingguangobjects.com
+DOMAIN-SUFFIX,miinsurtech.com
+DOMAIN-SUFFIX,momocdn.com
+DOMAIN-SUFFIX,okii.com
+DOMAIN-SUFFIX,qlivecdn.com
+DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,ths8.com
+DOMAIN-SUFFIX,tiancaixing.com
+DOMAIN-SUFFIX,tlivedns.com
+DOMAIN-SUFFIX,tujia.com
+DOMAIN-SUFFIX,tuyoo.com
+DOMAIN-SUFFIX,volcvideo.com
+DOMAIN-SUFFIX,welife001.com
+DOMAIN-SUFFIX,wxamedia.com
+DOMAIN-SUFFIX,wxcloudrun.com
