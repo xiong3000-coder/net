@@ -12,3 +12,13 @@ DOMAIN,adimage.bwton.com
 DOMAIN,tk.statisticslinks.com
 DOMAIN,adx-strategy-api-cn.statisticslinks.com
 DOMAIN,da.statisticslinks.com
+# Additional exact hosts identified in 2026-11-01 logs
+DOMAIN,ads-api.x.com
+DOMAIN,finderad.video.qq.com
+DOMAIN,stat.youpin.mi.com
+DOMAIN,h-adashx.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
+DOMAIN,wgo.mmstat.com
+DOMAIN,iadmusicmat.music.126.net
+DOMAIN,minigame-log.ewan.cn
+DOMAIN,tracking.miui.com
