@@ -1,0 +1,14 @@
+# Shadowrocket advertising/attribution hosts - conservative exact host blocking
+# Audit: 2026-11-02. Review any app side effects before expanding.
+DOMAIN,inner-report.shunchangzhixing.com
+DOMAIN,redirect.shunchangzhixing.com
+DOMAIN,mo.bluebellls.com
+DOMAIN,sdk.adx.adwangmai.com
+DOMAIN,sdk-cfg.adx.adwangmai.com
+DOMAIN,sdk-track.66mobi.com
+DOMAIN,mpcfg.fancydsp.com
+DOMAIN,api-access.pangolin-sdk-toutiao1.com
+DOMAIN,adimage.bwton.com
+DOMAIN,tk.statisticslinks.com
+DOMAIN,adx-strategy-api-cn.statisticslinks.com
+DOMAIN,da.statisticslinks.com
