@@ -22,3 +22,16 @@ DOMAIN,wgo.mmstat.com
 DOMAIN,iadmusicmat.music.126.net
 DOMAIN,minigame-log.ewan.cn
 DOMAIN,tracking.miui.com
+# Ad and attribution endpoints observed in 2026-11-09..2026-11-10 logs; exact hosts except dedicated ad networks
+DOMAIN,track.1b1tech.com
+DOMAIN,tracker.yiweiads.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN,t.adbiding.cn
+DOMAIN,ads-api.twitter.com
+DOMAIN,trrs-adp.2345.com
+DOMAIN,api-adp.2345.com
+DOMAIN,e.api.adwanji.com
+DOMAIN,e.api.adx.huazirc.com
+DOMAIN,statis2.9zadx.com
+DOMAIN,track.tladx.cn
