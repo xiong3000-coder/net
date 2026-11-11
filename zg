@@ -70,3 +70,15 @@ DOMAIN-SUFFIX,apptaxi.net
 DOMAIN-SUFFIX,bitautoimg.com
 DOMAIN-SUFFIX,qiyukf.com
 DOMAIN,open.ys7.com
+# Mainland-service exact hosts observed in 2026-11-11 traffic; no IP changes
+DOMAIN,mydjiflight.dji.com
+DOMAIN,api.djiservice.org
+DOMAIN,aura.dji.com
+DOMAIN,account-api.dji.com
+DOMAIN,terra-1-g.djicdn.com
+DOMAIN,terra-2-g-a.djicdn.com
+DOMAIN,ps.djigate.com
+DOMAIN,mimo.skypixel.com
+DOMAIN,public.hikparking.com
+DOMAIN,bs2.yumchina.com
+DOMAIN,locate.yumchina.com
