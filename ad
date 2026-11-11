@@ -35,3 +35,12 @@ DOMAIN,e.api.adwanji.com
 DOMAIN,e.api.adx.huazirc.com
 DOMAIN,statis2.9zadx.com
 DOMAIN,track.tladx.cn
+# Analytics and ad exact hosts observed in 2026-11-11 traffic; no broad first-party domain blocks
+DOMAIN,o.clarity.ms
+DOMAIN,c.clarity.ms
+DOMAIN,www.clarity.ms
+DOMAIN,trackingprd.hwwt8.com
+DOMAIN,toblog.ctobsnssdk.com
+DOMAIN,toblog.volceapplog.com
+DOMAIN,klink.volceapplog.com
+DOMAIN,adx.ys7.com
