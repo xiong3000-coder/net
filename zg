@@ -82,3 +82,10 @@ DOMAIN,mimo.skypixel.com
 DOMAIN,public.hikparking.com
 DOMAIN,bs2.yumchina.com
 DOMAIN,locate.yumchina.com
+# 2026-11-17 China Mobile Cloud Drive services. Keep net/ad ahead of this rule set to block ad.mcloud.139.com.
+DOMAIN-SUFFIX,mcloud.139.com
+DOMAIN,h.139.com
+DOMAIN,om.mrp.139.com
+DOMAIN,yp-kfpt.cmic.site
+DOMAIN,mca.cmpay.com
+DOMAIN,da.mmarket.com
