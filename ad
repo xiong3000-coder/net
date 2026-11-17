@@ -44,3 +44,7 @@ DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,toblog.volceapplog.com
 DOMAIN,klink.volceapplog.com
 DOMAIN,adx.ys7.com
+# 2026-11-17 China Mobile Cloud Drive advertising and observed tracking hosts (exact host only).
+DOMAIN,ad.mcloud.139.com
+DOMAIN,px.effirst.com
+DOMAIN,wtrace.cmgame.com
